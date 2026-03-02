@@ -1,0 +1,58 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "A fast-paced 3D running game where you control a ball rolling down a slope. Avoid obstacles and stay on the track!",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "url": "https://wayou.github.io/slope-game/"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "The classic number puzzle game where you slide tiles to reach 2048. Simple to learn, hard to master!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "url": "https://play2048.co/"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The world-famous block-stacking puzzle game. Rotate and place shapes to clear lines.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "url": "https://tetris.com/play-tetris"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game where you click cookies to build an empire. Buy upgrades and hire grandmas!",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "url": "https://orteil.dashnet.org/cookieclicker/"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "description": "Play the original version of Minecraft in your browser. Build anything you can imagine with 32 blocks.",
+    "thumbnail": "https://picsum.photos/seed/minecraft/400/300",
+    "url": "https://classic.minecraft.net/"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "description": "Capture as much territory as possible in this multiplayer arena game. Don't let others hit your tail!",
+    "thumbnail": "https://picsum.photos/seed/paperio/400/300",
+    "url": "https://paper-io.com/"
+  },
+  {
+    "id": "doodle-jump",
+    "title": "Doodle Jump",
+    "description": "Jump from platform to platform, picking up jetpacks and avoiding monsters in this endless climber.",
+    "thumbnail": "https://picsum.photos/seed/doodle/400/300",
+    "url": "https://doodlejump.io/"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road? Find out in this endless hopper game!",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "url": "https://www.crossyroad.com/"
+  }
+]
